@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ginar Cut Baktiyanesa</h1>
 <h3 align="center">Bachelor of Informatics engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ginarcbaktiyanesa&label=Profile%20views&color=0e75b6&style=flat" alt="ginarcbaktiyanesa" /> </p>
-
 - 🌱 I’m currently learning **systems analysis, database management, and web development**
 
 - 📫 How to reach me **ginarcb08@gmail.com**
